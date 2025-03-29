@@ -107,8 +107,8 @@ function App() {
                 <div className="grid md:grid-cols-2 gap-12 items-center mb-5">
                   <a href="https://8xbet.international/" target="_blank">
                     <img
-                      src="https://8xbet-xo-so-vn-viet-nam.vercel.app/kinh-nghiem-choi-xo-so-truc-tuyen-tai-8xbet.webp"
-                      alt="kinh-nghiem-choi-xo-so-truc-tuyen-tai-8xbet"
+                      src="https://8xbet-xo-so-vn-viet-nam.vercel.app/xo-so-truc-tuyen-la-gi.webp"
+                      alt="xo-so-truc-tuyen-la-gi"
                       className="rounded-2xl shadow-lg transform hover:scale-[1.02] transition-transform duration-300"
                     />
                   </a>
