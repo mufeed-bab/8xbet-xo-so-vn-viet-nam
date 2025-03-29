@@ -39,7 +39,7 @@ function App() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32">
               <div className="text-center">
                 <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-8 leading-tight">
-                  Top Những Ứng Dụng Theo Dõi Kết Quả Xổ Số Tốt Nhất
+                  Xổ Số Trực Tuyến: Tương Lai Của Thế Giới May Rủi
                 </h1>
                 <div className="w-24 h-1 bg-gradient-to-r from-yellow-400 to-yellow-300 mx-auto mb-8"></div>
               </div>
